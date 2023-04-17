@@ -1,4 +1,4 @@
-﻿from Note import Note
+﻿#from Notes.Note import Note
 from Functions import FunctForNotes as ffn
 from MyMenu import MyMenu as menu
 
