@@ -36,6 +36,7 @@ class MyMenu:
                     self.new_menu()
             elif val == 4:
                 ffn.find_note(self.list_of_note)
+                ffn.show_finded_note(self.list_of_note)
                 self.new_menu()
             elif val == 5:
                 ffn.ShowAllNotes(self.list_of_note)
